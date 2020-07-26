@@ -13,7 +13,7 @@ import org.junit.runners.Parameterized.Parameters;
 @RunWith(Parameterized.class)
 public class Hellojunit {
 
-	int ch, ch1;
+	int ch, ch1,ch2;
 
 	public Hellojunit(int k, int j) {
 		ch = k;
